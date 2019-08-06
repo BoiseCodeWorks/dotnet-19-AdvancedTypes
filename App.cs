@@ -67,7 +67,6 @@ namespace AdvancedTypes
             Console.WriteLine("Give me a word and I'll tell you the most frequently occuring letter");
             string randomWord = Console.ReadLine();
             FrequentLetter(randomWord);
-            return;
 
 
 
